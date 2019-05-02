@@ -918,7 +918,7 @@
       width: 436px;
       margin: auto;
       padding: 0;
-      margin-top: 20px;
+      margin-top: 50px;
       text-align: center;
       border-color: $real_black !important;
       .btn {
@@ -944,6 +944,49 @@
       }
 
     }
+  }
+  .rul-reg-table {
+    position: relative;
+    top: 80px;
+    .table-title {
+      width: 90%;
+      margin: 10px auto;
+      text-align: center;
+      li:nth-child(1) {
+        width: 50px;
+      }
+      li:nth-child(2) {
+        width: 210px;
+      }
+      li:nth-child(3) {
+        width: 70px;
+      }
+      li:nth-child(4) {
+        width: 60px;
+      }
+
+    }
+    .table-content {
+      width: 90%;
+      margin: 10px auto;
+      text-align: center;
+      li:nth-child(1) {
+        width: 50px;
+      }
+      li:nth-child(2) {
+        width: 210px;
+      }
+      li:nth-child(3) {
+        width: 70px;
+      }
+      li:nth-child(4) {
+        width: 60px;
+      }
+      &:nth-child(odd) {
+        background-color: $orange3_light !important;
+      }
+    }
+
   }
 }
 
