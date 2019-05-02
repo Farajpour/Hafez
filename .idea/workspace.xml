@@ -3,16 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b4fe2d19-ac8f-42e7-ab0c-da1139a94444" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hafez/public_html/about-us.html" afterPath="$PROJECT_DIR$/Hafez/public_html/about-us.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hafez/public_html/asset/css/index.css" afterPath="$PROJECT_DIR$/Hafez/public_html/asset/css/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hafez/public_html/asset/css/index.css.map" afterPath="$PROJECT_DIR$/Hafez/public_html/asset/css/index.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hafez/public_html/asset/css/index.scss" afterPath="$PROJECT_DIR$/Hafez/public_html/asset/css/index.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hafez/public_html/asset/css/template.css.map" afterPath="$PROJECT_DIR$/Hafez/public_html/asset/css/template.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hafez/public_html/asset/css/template.scss" afterPath="$PROJECT_DIR$/Hafez/public_html/asset/css/template.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hafez/public_html/documents.html" afterPath="$PROJECT_DIR$/Hafez/public_html/documents.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hafez/public_html/index.html" afterPath="$PROJECT_DIR$/Hafez/public_html/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hafez/public_html/photoGallery.html" afterPath="$PROJECT_DIR$/Hafez/public_html/photoGallery.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hafez/public_html/rules-regulations.html" afterPath="$PROJECT_DIR$/Hafez/public_html/rules-regulations.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -453,7 +443,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556793587046</updated>
-      <workItem from="1556793589686" duration="6598000" />
+      <workItem from="1556793589686" duration="6645000" />
     </task>
     <task id="LOCAL-00001" summary="update index page at 15:10">
       <created>1556793654841</created>
@@ -483,11 +473,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556795443148</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update rules-regulations.html and other page at 17:33">
+      <created>1556802232741</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1556802232741</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6598000" />
+    <option name="totallyTimeSpent" value="6645000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -524,7 +521,8 @@
     <MESSAGE value="update index page at 15:15" />
     <MESSAGE value="Added rules-regulations.html at 15:36" />
     <MESSAGE value="update rules-regulations.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="update rules-regulations.html" />
+    <MESSAGE value="update rules-regulations.html and other page at 17:33" />
+    <option name="LAST_COMMIT_MESSAGE" value="update rules-regulations.html and other page at 17:33" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
