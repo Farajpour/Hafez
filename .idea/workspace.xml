@@ -3,14 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b4fe2d19-ac8f-42e7-ab0c-da1139a94444" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hafez/public_html/asset/css/config.css" afterPath="$PROJECT_DIR$/Hafez/public_html/asset/css/config.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hafez/public_html/asset/css/config.css.map" afterPath="$PROJECT_DIR$/Hafez/public_html/asset/css/config.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hafez/public_html/asset/css/config.scss" afterPath="$PROJECT_DIR$/Hafez/public_html/asset/css/config.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hafez/public_html/asset/css/index.css" afterPath="$PROJECT_DIR$/Hafez/public_html/asset/css/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hafez/public_html/asset/css/index.css.map" afterPath="$PROJECT_DIR$/Hafez/public_html/asset/css/index.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hafez/public_html/asset/css/index.scss" afterPath="$PROJECT_DIR$/Hafez/public_html/asset/css/index.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hafez/public_html/asset/css/template.css.map" afterPath="$PROJECT_DIR$/Hafez/public_html/asset/css/template.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hafez/public_html/rules-regulations.html" afterPath="$PROJECT_DIR$/Hafez/public_html/rules-regulations.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,7 +22,7 @@
       <file leaf-file-name="rules-regulations.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Hafez/public_html/rules-regulations.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="666">
+            <state relative-caret-position="805">
               <caret line="129" column="25" lean-forward="false" selection-start-line="129" selection-start-column="25" selection-end-line="129" selection-end-column="25" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -469,7 +461,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556793587046</updated>
-      <workItem from="1556793589686" duration="9693000" />
+      <workItem from="1556793589686" duration="9773000" />
     </task>
     <task id="LOCAL-00001" summary="update index page at 15:10">
       <created>1556793654841</created>
@@ -506,18 +498,24 @@
       <option name="project" value="LOCAL" />
       <updated>1556802232741</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update rules-regulations.html and added color for config.scss at 18:50">
+      <created>1556806876329</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1556806876329</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9693000" />
+    <option name="totallyTimeSpent" value="9773000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -548,7 +546,8 @@
     <MESSAGE value="Added rules-regulations.html at 15:36" />
     <MESSAGE value="update rules-regulations.html" />
     <MESSAGE value="update rules-regulations.html and other page at 17:33" />
-    <option name="LAST_COMMIT_MESSAGE" value="update rules-regulations.html and other page at 17:33" />
+    <MESSAGE value="update rules-regulations.html and added color for config.scss at 18:50" />
+    <option name="LAST_COMMIT_MESSAGE" value="update rules-regulations.html and added color for config.scss at 18:50" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -855,7 +854,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Hafez/public_html/rules-regulations.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="666">
+        <state relative-caret-position="805">
           <caret line="129" column="25" lean-forward="false" selection-start-line="129" selection-start-column="25" selection-end-line="129" selection-end-column="25" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
