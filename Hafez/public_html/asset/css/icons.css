@@ -1,0 +1,1197 @@
+/*-----------------------------icons---------------------------------*/
+.icon {
+  background-image: url("../../asset/images/icons02.png") !important;
+  width: 35px;
+  height: 35px;
+  background-repeat: no-repeat;
+  display: inline-block;
+  float: right;
+  background-size: 90em;
+  background-position: -1222px -131px; }
+  .icon.center-block {
+    display: block;
+    float: none; }
+
+.icon-pack2 {
+  background-image: url("../../asset/images/icons_03_mini.png") !important;
+  background-size: 100em; }
+
+.icon-signin {
+  background-position: -969px -4px; }
+
+.icon-back {
+  background-position: -886px -4px; }
+
+.icon-recover-password {
+  background-position: -927px -4px; }
+
+.icon-signin-blue {
+  background-position: -6px -93px; }
+
+.icon-signup-blue {
+  background-position: -45px -93px; }
+
+.icon-power {
+  background-position: -635px -93px; }
+
+.icon-profile {
+  background-position: -723px -93px; }
+
+.icon-dashboard {
+  background-position: -801px -93px; }
+
+.icon-guide {
+  background-position: -888px -93px; }
+
+.icon-support {
+  background-position: -974px -93px; }
+
+.icon-notifications {
+  background-position: -1055px -93px; }
+
+.icon-sign-up-step1 {
+  background-position: -187px -300px;
+  background-size: 200em; }
+
+.icon-sign-up-step2 {
+  background-position: -95px -299px;
+  background-size: 200em; }
+
+.icon-sign-up-step3 {
+  background-position: -280px -300px;
+  background-size: 200em; }
+
+.icon-sign-up-step4 {
+  background-position: 1px -300px;
+  background-size: 200em; }
+
+.icon-sign-up-step5 {
+  background-position: -375px -300px;
+  background-size: 200em; }
+
+.icon-management {
+  background-position: -1221px -5px; }
+
+.icon-human_resources_management {
+  background-position: -172px -4px; }
+
+.icon-risk_management {
+  background-position: -1221px -94px; }
+
+.icon-improve_quality {
+  background-position: -1142px -136px; }
+
+.icon-sovereignty {
+  background-position: -45px -4px; }
+
+.icon-executive_management {
+  background-position: -339px -4px; }
+
+.icon-fault_management {
+  background-position: -296px -4px; }
+
+.icon-accommodation_facilities_management {
+  background-position: -255px -4px; }
+
+.icon-food_management {
+  background-position: -214px -4px; }
+
+.icon-profile-user {
+  background-position: -720px -135px; }
+
+.icon-national-id {
+  background-position: -341px -138px; }
+
+.icon-key {
+  background-position: -637px -137px; }
+
+.icon-mobile {
+  background-position: -427px -138px; }
+
+.icon-personal-id {
+  background-position: -384px -138px; }
+
+.icon-post {
+  background-position: -469px -138px; }
+
+.icon-office-unit {
+  background-position: -554px -138px; }
+
+.icon-job-group {
+  background-position: -512px -137px; }
+
+.icon-edit {
+  background-position: -1013px -134px; }
+
+.icon-save-edit {
+  background-position: -929px -134px; }
+
+.icon-cancel {
+  background-position: -971px -134px; }
+
+.icon-signature {
+  background-position: -596px -139px; }
+
+.icon-notes {
+  background-position: -1140px -93px; }
+
+.icon-general_information_hospital {
+  background-position: -423px -3px; }
+
+.icon-evaluation_team_profile {
+  background-position: -507px -2px; }
+
+.icon-functional_safety_assessment {
+  background-position: -633px -3px; }
+
+.icon-understanding_the_risks {
+  background-position: -383px -2px; }
+
+.icon-safety_assessment_instruments {
+  background-position: -550px -3px; }
+
+.icon-biological_safety_assessmentt {
+  background-position: -591px -4px; }
+
+.icon-pencil {
+  background-position: -43px -182px; }
+
+.icon-plus {
+  background-position: -85px -181px; }
+
+.icon-physical_distribution_hospital {
+  background-position: -169px -182px; }
+
+.icon-hospital_capacity {
+  background-position: -212px -181px; }
+
+.icon-increased_capacity {
+  background-position: -676px -3px; }
+
+.icon-print_blue {
+  background-position: -334px -183px; }
+
+.icon-save_blue {
+  background-position: -293px -183px; }
+
+.icon-hospital_black {
+  background-position: -173px -92px; }
+
+.icon-address_black {
+  background-position: -213px -90px; }
+
+.icon-tell_black {
+  background-position: -256px -92px; }
+
+.icon-fax_black {
+  background-position: -298px -91px; }
+
+.icon-web_black {
+  background-position: -339px -91px; }
+
+.icon-email_black {
+  background-position: -384px -94px; }
+
+.icon-active_beds_black {
+  background-position: -422px -93px; }
+
+.icon-approved_beds_black {
+  background-position: -466px -94px; }
+
+.icon-busy_bed_black {
+  background-position: -507px -94px; }
+
+.icon-hospital_affiliation_black {
+  background-position: -549px -99px; }
+
+.icon-coverage_area_black {
+  background-position: -591px -96px; }
+
+.icon-population_covered_black {
+  background-position: -88px -95px; }
+
+.icon_degree_black {
+  background-position: -129px -95px; }
+
+.icon-check {
+  background-position: -461px -220px; }
+
+.icon-assessment_information {
+  background-position: -632px -48px; }
+
+.icon-viewing_charts {
+  background-position: -675px -47px; }
+
+.icon-evaluations_history {
+  background-position: -717px -46px; }
+
+.icon-emergency_departments {
+  background-position: -934px -175px; }
+
+.icon-geological_hazards {
+  background-position: -4px -4px; }
+
+.icon-name_section {
+  background-position: -254px -181px; }
+
+.icon-hospital_small {
+  background-position: -382px -46px; }
+
+.icon-user_friendly {
+  background-position: -424px -46px; }
+
+.icon-area {
+  background-position: -42px -47px; }
+
+.icon-water {
+  background-position: -84px -46px; }
+
+.icon-electricity_pylons {
+  background-position: -88px -5px; }
+
+.icon-tell_small {
+  background-position: -506px -46px; }
+
+.icon-heating_and_cooling {
+  background-position: -592px -45px; }
+
+.icon-heating {
+  background-position: -1149px -174px; }
+
+.icon-number_of_approved_beds {
+  background-position: -215px -48px; }
+
+.icon-expandable_bed {
+  background-position: -297px -45px; }
+
+.icon-beds_isolated {
+  background-position: -255px -48px; }
+
+.icon-description {
+  background-position: -339px -45px; }
+
+.icon-medical_departments {
+  background-position: -276px -218px; }
+
+.icon-surgery_departments {
+  background-position: -314px -218px; }
+
+.icon-intensive_care_departments {
+  background-position: -351px -217px; }
+
+.icon-operating_rooms {
+  background-position: -390px -217px; }
+
+.icon-save_white {
+  background-position: -213px -138px; }
+
+.icon-type_of_surgery {
+  background-position: -45px -218px; }
+
+.icon-result_understanding_the_risks {
+  background-position: -199px -218px; }
+
+.icon-weather_hazards {
+  background-position: -307px -2px;
+  font-size: .9em; }
+
+.icon-print_white {
+  background-position: -255px -138px; }
+
+.icon-social_phenomena {
+  background-position: -639px 0;
+  font-size: .84em; }
+
+.icon-biological_hazards {
+  background-position: -1060px -4px; }
+
+.icon-man_made_hazards {
+  background-position: -946px 0;
+  font-size: .8em; }
+
+.icon-earthquake {
+  background-position: -75px -1px; }
+
+.icon-volcano {
+  background-position: -112px -2px; }
+
+.icon-mudslides_after_quake {
+  background-position: -148px -1px; }
+
+.icon-tsunami {
+  background-position: -186px 0; }
+
+.icon-psychologism {
+  background-position: -222px 0; }
+
+.icon-land_with_clay_soils {
+  background-position: -259px -1px; }
+
+.icon-storm {
+  background-position: -334px -1px; }
+
+.icon-tornado {
+  background-position: -371px 0; }
+
+.icon-torrential_rain {
+  background-position: -408px -1px; }
+
+.icon-flash_flood {
+  background-position: -444px -1px; }
+
+.icon-staff_strike {
+  background-position: -38px -3px; }
+
+.icon-river_flooding_or_high_waves_caused_by_storm {
+  background-position: -481px -1px; }
+
+.icon-landslides_and_floods_after_heavy_rainfall {
+  background-position: -522px -1px; }
+
+.icon-severe_weather_conditions {
+  background-position: -591px -2px; }
+
+.icon-dust {
+  background-position: -629px -2px; }
+
+.icon-camps {
+  background-position: -704px -1px; }
+
+.icon-displacement_of_population {
+  background-position: -740px -2px; }
+
+.icon-detectors_0 {
+  background-position: -510px -259px; }
+
+.icon-detectors_1 {
+  background-position: -509px -299px; }
+
+.icon-armed_attack {
+  background-position: -777px -1px; }
+
+.icon-hostage {
+  background-position: -814px -2px; }
+
+.icon-kidnapping {
+  background-position: -854px -1px; }
+
+.icon-cyber_threats {
+  background-position: -888px -1px; }
+
+.icon-epidemics {
+  background-position: -962px -2px; }
+
+.icon-vermin_infestation {
+  background-position: -998px 0; }
+
+.icon-gas_explosion {
+  background-position: -1073px -2px; }
+
+.icon-bomb_explosion {
+  background-position: -558px -3px; }
+
+.icon-fire {
+  background-position: -1113px -2px; }
+
+.icon-leakage_of_harmful_substances {
+  background-position: -1149px -3px; }
+
+.icon-nuclear_threats {
+  background-position: -1186px -3px; }
+
+.icon-radiological_threats {
+  background-position: -1224px -2px; }
+
+.icon-biological_threats {
+  background-position: -1262px -1px; }
+
+.icon-biologically_threats {
+  background-position: -1297px -3px; }
+
+.icon-chemical_threats_of_blister_agents {
+  background-position: -1335px -2px; }
+
+.icon-chemical_threats_of_industrial_chemicals {
+  background-position: -1371px -3px; }
+
+.icon-threats_of_chemical_nerve_agents {
+  background-position: -1408px -3px; }
+
+.icon-chemical_threats {
+  background-position: -1446px -2px; }
+
+.icon-ventilation_system {
+  background-position: -1482px -3px; }
+
+.icon-power_outage {
+  background-position: -1519px -2px; }
+
+.icon-water_cut {
+  background-position: -1556px -2px; }
+
+.icon-hospital_overload {
+  background-position: -1593px -2px; }
+
+.icon-immediate_withdrawal {
+  background-position: -1632px -2px; }
+
+.icon-view_status {
+  background-position: -1046px -66px; }
+
+.icon-operational_emergency_plan {
+  background-position: -1435px -180px; }
+
+.icon-blue_alert {
+  background-position: -1181px -135px; }
+
+.icon-committee {
+  background-position: -738px -176px; }
+
+.icon-action_plan_to_respond {
+  background-position: -776px -176px; }
+
+.icon-contingency_operations_programs_medicine {
+  background-position: -813px -176px; }
+
+.icon-restoration_services {
+  background-position: -853px -175px; }
+
+.icon-access_to_medicines {
+  background-position: -431px -176px; }
+
+.icon-committee_white {
+  background-position: -546px -214px; }
+
+.icon-committee_blue {
+  background-position: -737px -175px; }
+
+.icon-action_plan_to_respond_white {
+  background-position: -775px -213px; }
+
+.icon-contingency_operations_programs_medicine_white {
+  background-position: -470px -215px; }
+
+.icon-restoration_services_white {
+  background-position: -853px -215px; }
+
+.icon-access_to_medicines_white {
+  background-position: -431px -214px; }
+
+.icon-guidance {
+  background-position: -1055px -134px; }
+
+.icon-excel_blue {
+  background-position: -894px -177px; }
+
+.icon-action_plan_to_respond_blue {
+  background-position: -1028px -216px; }
+
+.icon-contingency_operations_programs_medicine_blue {
+  background-position: -935px -216px; }
+
+.icon-restoration_services_blue {
+  background-position: -974px -216px; }
+
+.icon-access_to_medicines_blue {
+  background-position: -896px -215px; }
+
+.icon-intervention {
+  background-position: -14px -289px; }
+
+.icon-calender {
+  background-position: -2px -258px; }
+
+.icon-config {
+  background-position: -82px -217px; }
+
+.icon-row {
+  background-position: -120px -215px; }
+
+.icon-subject {
+  background-position: -158px -217px; }
+
+.icon-date {
+  background-position: -975px -173px; }
+
+.icon-physical_distribution_hospital_blue {
+  background-position: -1014px -174px; }
+
+.icon-excel_white {
+  background-position: -1059px -177px; }
+
+.icon-safety_against_fire {
+  background-position: -237px -219px; }
+
+.icon-safety_against_fire_white {
+  background-position: -237px -259px; }
+
+.icon-identify_hazardous_places {
+  background-position: -624px -257px; }
+
+.icon-identify_hazardous_places_white {
+  background-position: -624px -214px; }
+
+.icon-safety_of_the_engine_room {
+  background-position: -661px -176px; }
+
+.icon-safety_of_the_engine_room_white {
+  background-position: -661px -215px; }
+
+.icon-interface_team_of_fire_stations {
+  background-position: -699px -176px; }
+
+.icon-interface_team_of_fire_stations_white {
+  background-position: -699px -213px; }
+
+.icon-safe_discharge_paths {
+  background-position: -8px -294px; }
+
+.icon-detectors {
+  background-position: -383px -334px; }
+
+.icon-manual_extinguishers {
+  background-position: -343px -258px; }
+
+.icon-hazardous_places {
+  background-position: -385px -259px; }
+
+.icon-firebox {
+  background-position: -218px -295px; }
+
+.icon-water_and_gas {
+  background-position: -174px -295px; }
+
+.icon-carbon_dioxide {
+  background-position: -131px -294px; }
+
+.icon-powder_and_gas {
+  background-position: -90px -294px; }
+
+.icon-to_exit_door {
+  background-position: -7px -293px; }
+
+.icon-emergency_safe_stairs {
+  background-position: -259px -294px; }
+
+.icon-to_right {
+  background-position: -88px -333px; }
+
+.icon-to_left {
+  background-position: -259px -333px; }
+
+.icon-to_down {
+  background-position: -298px -334px; }
+
+.icon-to_up {
+  background-position: -341px -336px; }
+
+.icon-elliptic {
+  background-position: -901px -257px; }
+
+.icon-circle {
+  background-position: -940px -257px; }
+
+.icon-rectangle {
+  background-position: -979px -257px; }
+
+.icon-lozenge {
+  background-position: -1019px -255px; }
+
+.icon-arrow {
+  background-position: -1060px -253px; }
+
+.icon-show_photo_camera {
+  background-position: -1223px -171px; }
+
+.icon-home {
+  background-position: -132px -3px; }
+
+/*-----------------------------icons---------------------------------*/
+.icon.icon-font {
+  background-image: none !important; }
+
+/*--------------------------font icon-------------------------*/
+.icon-font {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+  .icon-font.medium {
+    font-size: 2.2em; }
+  .icon-font.icon-zaymane_tabiee:before {
+    content: "\ea10"; }
+  .icon-font.icon-manabe_ensani:before {
+    content: "\e9f9"; }
+  .icon-font.icon-akhlagh_pezeshki:before {
+    content: "\e9fa"; }
+  .icon-font.icon-behbood_keyfiyat:before {
+    content: "\e9fb"; }
+  .icon-font.icon-behdashte_kar:before {
+    content: "\e9fc"; }
+  .icon-font.icon-controle_ofonat:before {
+    content: "\e9fd"; }
+  .icon-font.icon-daramad_kosorat:before {
+    content: "\e9fe"; }
+  .icon-font.icon-daru_va_tajhizat:before {
+    content: "\e9ff"; }
+  .icon-font.icon-ehya_nozadan:before {
+    content: "\ea00"; }
+  .icon-font.icon-enteghale_khoon:before {
+    content: "\ea01"; }
+  .icon-font.icon-marg_janin:before {
+    content: "\ea02"; }
+  .icon-font.icon-marge_koodakan:before {
+    content: "\ea03"; }
+  .icon-font.icon-marge_madaran:before {
+    content: "\ea05"; }
+  .icon-font.icon-margo_mir:before {
+    content: "\ea06"; }
+  .icon-font.icon-modiriyate_ejraee:before {
+    content: "\ea07"; }
+  .icon-font.icon-otaghe_amal:before {
+    content: "\ea08"; }
+  .icon-font.icon-rezayatmandi_moshtarian:before {
+    content: "\ea09"; }
+  .icon-font.icon-taeen_taklife_bimaran:before {
+    content: "\ea0a"; }
+  .icon-font.icon-tajhizate_pezeshki:before {
+    content: "\ea0b"; }
+  .icon-font.icon-tarvije_taghziye:before {
+    content: "\ea0c"; }
+  .icon-font.icon-teryag:before {
+    content: "\ea0d"; }
+  .icon-font.icon-time_hakemiyati:before {
+    content: "\ea0e"; }
+  .icon-font.icon-urjans:before {
+    content: "\ea0f"; }
+  .icon-font.icon-city:before {
+    content: "\e9f5"; }
+  .icon-font.icon-mobile:before {
+    content: "\e9f6"; }
+  .icon-font.icon-name_hospital:before {
+    content: "\e9f7"; }
+  .icon-font.icon-afzayesh_shakhes:before {
+    content: "\e9ea"; }
+  .icon-font.icon-game_barname:before {
+    content: "\e9eb"; }
+  .icon-font.icon-kahesh_shakhes:before {
+    content: "\e9ec"; }
+  .icon-font.icon-afzayesh_ab_darya:before {
+    content: "\e9de"; }
+  .icon-font.icon-aval_amalkardi:before {
+    content: "\e9df"; }
+  .icon-font.icon-charom_amalkardi:before {
+    content: "\e9e0"; }
+  .icon-font.icon-dovom_amalkardi:before {
+    content: "\e9e1"; }
+  .icon-font.icon-ghahti:before {
+    content: "\e9e2"; }
+  .icon-font.icon-havades_transportation:before {
+    content: "\e9e3"; }
+  .icon-font.icon-panjom_amalkardi:before {
+    content: "\e9e4"; }
+  .icon-font.icon-sevom_amalkardi:before {
+    content: "\e9e5"; }
+  .icon-font.icon-sghot_sang:before {
+    content: "\e9e6"; }
+  .icon-font.icon-sheshom_amalkardi:before {
+    content: "\e9e7"; }
+  .icon-font.icon-shib_napaydar:before {
+    content: "\e9e8"; }
+  .icon-font.icon-tahdid_amniyati:before {
+    content: "\e9e9"; }
+  .icon-font.icon-arzyabi_farayand:before {
+    content: "\e9c4"; }
+  .icon-font.icon-bakhsh:before {
+    content: "\e9c5"; }
+  .icon-font.icon-bargozari_flochart:before {
+    content: "\e9d2"; }
+  .icon-font.icon-barname_amaliyati:before {
+    content: "\e9d3"; }
+  .icon-font.icon-barname_behbood:before {
+    content: "\e9d4"; }
+  .icon-font.icon-barname_strategic:before {
+    content: "\e9d6"; }
+  .icon-font.icon-farayand:before {
+    content: "\e9d7"; }
+  .icon-font.icon-flochart:before {
+    content: "\e9d8"; }
+  .icon-font.icon-hoze_farayand:before {
+    content: "\e9d9"; }
+  .icon-font.icon-khod_arzyabi:before {
+    content: "\e9da"; }
+  .icon-font.icon-khod_arzyabi_bakhshha:before {
+    content: "\e9db"; }
+  .icon-font.icon-khod_arzyabi_mehvari:before {
+    content: "\e9dc"; }
+  .icon-font.icon-pardazesh_shakhes:before {
+    content: "\e9dd"; }
+  .icon-font.icon-vorod:before {
+    content: "\e9bd"; }
+  .icon-font.icon-ozviyat:before {
+    content: "\e9f8"; }
+  .icon-font.icon-sanje_edeal:before {
+    content: "\e9be"; }
+  .icon-font.icon-sanje_asasi:before {
+    content: "\e9bf"; }
+  .icon-font.icon-sanje_elzami:before {
+    content: "\e9c0"; }
+  .icon-font.icon-salane:before {
+    content: "\e9c1"; }
+  .icon-font.icon-namayesh_taghvim:before {
+    content: "\e9c2"; }
+  .icon-font.icon-mosavabat_comitte:before {
+    content: "\e9c3"; }
+  .icon-font.icon-instgram:before {
+    content: "\ea04"; }
+  .icon-font.icon-google_plus:before {
+    content: "\e9f0"; }
+  .icon-font.icon-aparat:before {
+    content: "\e9f1"; }
+  .icon-font.icon-twitter:before {
+    content: "\e9f2"; }
+  .icon-font.icon-facebook:before {
+    content: "\e9f3"; }
+  .icon-font.icon-telegram:before {
+    content: "\e9f4"; }
+  .icon-font.icon-fasli:before {
+    content: "\e9ca"; }
+  .icon-font.icon-hadaf_ekhtesasi:before {
+    content: "\e9cb"; }
+  .icon-font.icon-kamelan_mokhalef:before {
+    content: "\e9cc"; }
+  .icon-font.icon-kamelan_movafegh:before {
+    content: "\e9cd"; }
+  .icon-font.icon-mahane:before {
+    content: "\e9ce"; }
+  .icon-font.icon-mokhalef:before {
+    content: "\e9cf"; }
+  .icon-font.icon-momtane:before {
+    content: "\e9d0"; }
+  .icon-font.icon-movafegh:before {
+    content: "\e9d1"; }
+  .icon-font.icon-onvane_barname:before {
+    content: "\e9d5"; }
+  .icon-font.icon-strategy:before {
+    content: "\e9ed"; }
+  .icon-font.icon-stratgy-goal:before {
+    content: "\e9ee"; }
+  .icon-font.icon-vorude_etelaat:before {
+    content: "\e9ef"; }
+  .icon-font.icon-agent:before {
+    content: "\e9ac"; }
+  .icon-font.icon-snjab-a1:before {
+    content: "\e9ad"; }
+  .icon-font.icon-snjab-a2:before {
+    content: "\e9ae"; }
+  .icon-font.icon-snjab-a3:before {
+    content: "\e9b2"; }
+  .icon-font.icon-snjab-b1:before {
+    content: "\e9b3"; }
+  .icon-font.icon-snjab-b2:before {
+    content: "\e9b4"; }
+  .icon-font.icon-snjab-b3:before {
+    content: "\e9b5"; }
+  .icon-font.icon-snjab-c1:before {
+    content: "\e9b6"; }
+  .icon-font.icon-snjab-c2:before {
+    content: "\e9b7"; }
+  .icon-font.icon-snjab-c3:before {
+    content: "\e9b8"; }
+  .icon-font.icon-snjab-cataluge:before {
+    content: "\e9b9"; }
+  .icon-font.icon-snjab-clips:before {
+    content: "\e9ba"; }
+  .icon-font.icon-snjab-d1:before {
+    content: "\e9bb"; }
+  .icon-font.icon-snjab-d2:before {
+    content: "\e9bc"; }
+  .icon-font.icon-snjab-e1:before {
+    content: "\e9c6"; }
+  .icon-font.icon-snjab-e2:before {
+    content: "\e9c7"; }
+  .icon-font.icon-snjab-e3:before {
+    content: "\e9c8"; }
+  .icon-font.icon-snjab-moshtarian:before {
+    content: "\e9c9"; }
+  .icon-font.icon-edame_tasmimat:before {
+    content: "\e9a3"; }
+  .icon-font.icon-ersal_tiket:before {
+    content: "\e9a4"; }
+  .icon-font.icon-poshtibani_online:before {
+    content: "\e9a5"; }
+  .icon-font.icon-rahnama:before {
+    content: "\e9a6"; }
+  .icon-font.icon-sabt_darkhast_hozur:before {
+    content: "\e9a7"; }
+  .icon-font.icon-bargozari_samane_farmandehi:before {
+    content: "\e9a8"; }
+  .icon-font.icon-tadvin_samane_farmandehi:before {
+    content: "\e9a9"; }
+  .icon-font.icon-darkhast_rasm:before {
+    content: "\e9aa"; }
+  .icon-font.icon-sharh_vazayef:before {
+    content: "\e9ab"; }
+  .icon-font.icon-Patient_Safety:before {
+    content: "\e9a2"; }
+  .icon-font.icon-eghdam_eslahi:before {
+    content: "\e99d"; }
+  .icon-font.icon-eghdamat_anjam_shode:before {
+    content: "\e99e"; }
+  .icon-font.icon-hadese_personal:before {
+    content: "\e99f"; }
+  .icon-font.icon-hadese-mohit:before {
+    content: "\e9a0"; }
+  .icon-font.icon-mahale_hadese2:before {
+    content: "\e9a1"; }
+  .icon-font.icon-shift_shab:before {
+    content: "\e9af"; }
+  .icon-font.icon-shift_sobh:before {
+    content: "\e9b0"; }
+  .icon-font.icon-shift_zohr:before {
+    content: "\e9b1"; }
+  .icon-font.icon-hazerin_jalase:before {
+    content: "\e998"; }
+  .icon-font.icon-matn_payam_chat_online:before {
+    content: "\e999"; }
+  .icon-font.icon-MONTAFI_SHODAN:before {
+    content: "\e99a"; }
+  .icon-font.icon-sales_unit:before {
+    content: "\e99b"; }
+  .icon-font.icon-shahedin:before {
+    content: "\e99c"; }
+  .icon-font.icon-arayesh_va_behdasht:before {
+    content: "\e964"; }
+  .icon-font.icon-bimaria:before {
+    content: "\e965"; }
+  .icon-font.icon-cheshm_baz:before {
+    content: "\e966"; }
+  .icon-font.icon-dandoon:before {
+    content: "\e967"; }
+  .icon-font.icon-home1:before {
+    content: "\e968";
+    font-size: 1.5em; }
+  .icon-font.icon-home4:before {
+    content: "\e969"; }
+  .icon-font.icon-home7:before {
+    content: "\e96a"; }
+  .icon-font.icon-home8:before {
+    content: "\e96b"; }
+  .icon-font.icon-home9:before {
+    content: "\e978"; }
+  .icon-font.icon-home10:before {
+    content: "\e979"; }
+  .icon-font.icon-home11:before {
+    content: "\e97a"; }
+  .icon-font.icon-home12:before {
+    content: "\e97b"; }
+  .icon-font.icon-home13:before {
+    content: "\e97c"; }
+  .icon-font.icon-home16:before {
+    content: "\e97d"; }
+  .icon-font.icon-jensi:before {
+    content: "\e97e"; }
+  .icon-font.icon-kodakan:before {
+    content: "\e97f"; }
+  .icon-font.icon-like:before {
+    content: "\e980"; }
+  .icon-font.icon-post-Va-mo:before {
+    content: "\e981"; }
+  .icon-font.icon-salamat-ravan:before {
+    content: "\e982"; }
+  .icon-font.icon-saratan:before {
+    content: "\e983"; }
+  .icon-font.icon-taghziyeh:before {
+    content: "\e984"; }
+  .icon-font.icon-tanasob-andam:before {
+    content: "\e985"; }
+  .icon-font.icon-cartable:before {
+    content: "\e96c"; }
+  .icon-font.icon-categorise:before {
+    content: "\e96d"; }
+  .icon-font.icon-chat_online:before {
+    content: "\e96e"; }
+  .icon-font.icon-comment:before {
+    content: "\e96f"; }
+  .icon-font.icon-compose:before {
+    content: "\e970"; }
+  .icon-font.icon-daryaft_dastorkar_agahi:before {
+    content: "\e971"; }
+  .icon-font.icon-daryaft_dastorkar_anjamkar:before {
+    content: "\e972"; }
+  .icon-font.icon-dastor_amal:before {
+    content: "\e973"; }
+  .icon-font.icon-dastore_karha:before {
+    content: "\e974"; }
+  .icon-font.icon-draft:before {
+    content: "\e975"; }
+  .icon-font.icon-enteghale_tajrobiat:before {
+    content: "\e976"; }
+  .icon-font.icon-favoite:before {
+    content: "\e977"; }
+  .icon-font.icon-inbox:before {
+    content: "\e986"; }
+  .icon-font.icon-mehvar:before {
+    content: "\e987"; }
+  .icon-font.icon-mize_kar:before {
+    content: "\e988"; }
+  .icon-font.icon-modiriate_dastresi:before {
+    content: "\e989"; }
+  .icon-font.icon-peyvast:before {
+    content: "\e98a"; }
+  .icon-font.icon-publish:before {
+    content: "\e98b"; }
+  .icon-font.icon-search:before {
+    content: "\e98c"; }
+  .icon-font.icon-sent:before {
+    content: "\e98d"; }
+  .icon-font.icon-support_request:before {
+    content: "\e98e"; }
+  .icon-font.icon-tanzimate_karbari:before {
+    content: "\e98f"; }
+  .icon-font.icon-view_3:before {
+    content: "\e990"; }
+  .icon-font.icon-yaddasht:before {
+    content: "\e991"; }
+  .icon-font.icon-daro_va_tajhizat:before {
+    content: "\e954"; }
+  .icon-font.icon-farmandehi_hadese:before {
+    content: "\e955"; }
+  .icon-font.icon-hamkaran:before {
+    content: "\e956"; }
+  .icon-font.icon-imeny_sazey:before {
+    content: "\e957"; }
+  .icon-font.icon-imeny_sazey_1:before {
+    content: "\e958"; }
+  .icon-font.icon-map_uploaded:before {
+    content: "\e959"; }
+  .icon-font.icon-modiriat_rahbari:before {
+    content: "\e95a"; }
+  .icon-font.icon-modiriate_etelat:before {
+    content: "\e95b"; }
+  .icon-font.icon-moraghebat_va_darman:before {
+    content: "\e95c"; }
+  .icon-font.icon-paraclinic:before {
+    content: "\e95d"; }
+  .icon-font.icon-parastari:before {
+    content: "\e95e"; }
+  .icon-font.icon-pishgiri_va_behdasht:before {
+    content: "\e95f"; }
+  .icon-font.icon-polices:before {
+    content: "\e945"; }
+  .icon-font.icon-reaiat_hoghoghe_khedmat:before {
+    content: "\e960"; }
+  .icon-font.icon-samaneh_hoshdar:before {
+    content: "\e961"; }
+  .icon-font.icon-tarikh:before {
+    content: "\e962"; }
+  .icon-font.icon-years:before {
+    content: "\e963"; }
+  .icon-font.icon-about_us:before {
+    content: "\e948"; }
+  .icon-font.icon-akhbar_etebar_bakhshi:before {
+    content: "\e949"; }
+  .icon-font.icon-amniat:before {
+    content: "\e94a"; }
+  .icon-font.icon-contact_us:before {
+    content: "\e94b"; }
+  .icon-font.icon-danestaniha:before {
+    content: "\e94c"; }
+  .icon-font.icon-daraye-_app_mobile:before {
+    content: "\e94d"; }
+  .icon-font.icon-dastraspaziri:before {
+    content: "\e94e"; }
+  .icon-font.icon-home_page:before {
+    content: "\e94f"; }
+  .icon-font.icon-logo:before {
+    content: "\e950"; }
+  .icon-font.icon-low_costs:before {
+    content: "\e951"; }
+  .icon-font.icon-News:before {
+    content: "\e952"; }
+  .icon-font.icon-userf:before {
+    content: "\e953"; }
+  .icon-font.icon-c-icon:before {
+    content: "\e943"; }
+  .icon-font.icon-hokm:before {
+    content: "\e944"; }
+  .icon-font.icon-access_manager:before {
+    content: "\e945"; }
+  .icon-font.icon-t-icon:before {
+    content: "\e946"; }
+  .icon-font.icon-txt:before {
+    content: "\e947"; }
+  .icon-font.icon-barresi_havades:before {
+    content: "\e940"; }
+  .icon-font.icon-medical_gases:before {
+    content: "\e941"; }
+  .icon-font.icon-ravesh_ejraeey:before {
+    content: "\e942"; }
+  .icon-font.icon-bargh_ezterari:before {
+    content: "\e931"; }
+  .icon-font.icon-shabake_enteghal2:before {
+    content: "\e932"; }
+  .icon-font.icon-tadvin_check_list2:before {
+    content: "\e933"; }
+  .icon-font.icon-ezterari:before {
+    content: "\e934"; }
+  .icon-font.icon-generator:before {
+    content: "\e935"; }
+  .icon-font.icon-mamuli:before {
+    content: "\e936"; }
+  .icon-font.icon-shabake_enteghal:before {
+    content: "\e937"; }
+  .icon-font.icon-tadvin_check_list:before {
+    content: "\e938"; }
+  .icon-font.icon-tadvin_shenasname_generator:before {
+    content: "\e939"; }
+  .icon-font.icon-taeediye:before {
+    content: "\e93a"; }
+  .icon-font.icon-tarikhche_virayeshha:before {
+    content: "\e93b"; }
+  .icon-font.icon-tim_rabet_atashneshani:before {
+    content: "\e93c"; }
+  .icon-font.icon-tozie_energy_electronic:before {
+    content: "\e93d";
+    margin-right: 5px; }
+  .icon-font.icon-UPS:before {
+    content: "\e93e"; }
+  .icon-font.icon-takmil_check_list:before {
+    content: "\e93f"; }
+  .icon-font.icon-barname_commitee:before {
+    content: "\e924"; }
+  .icon-font.icon-send_to:before {
+    content: "\e925"; }
+  .icon-font.icon-bargozari_check_list:before {
+    content: "\e926"; }
+  .icon-font.icon-barnameha:before {
+    content: "\e927"; }
+  .icon-font.icon-daryaft_jahate_agahi:before {
+    content: "\e930"; }
+  .icon-font.icon-daryaft_dastoor_kar:before {
+    content: "\e928"; }
+  .icon-font.icon-daryaft_form_kham:before {
+    content: "\e929"; }
+  .icon-font.icon-erja_dastoor_kar:before {
+    content: "\e92a"; }
+  .icon-font.icon-erja_jahate_agahi:before {
+    content: "\e92b"; }
+  .icon-font.icon-erjaha:before {
+    content: "\e92c"; }
+  .icon-font.icon-gozaresh_khata:before {
+    content: "\e92d"; }
+  .icon-font.icon-payamha:before {
+    content: "\e92e"; }
+  .icon-font.icon-sandogh_daryafti:before {
+    content: "\e92f"; }
+  .icon-font.icon-arzyabi-mojadad:before {
+    content: "\e912"; }
+  .icon-font.icon-arzyabi:before {
+    content: "\e913"; }
+  .icon-font.icon-arzyabi_jalasat:before {
+    content: "\e914"; }
+  .icon-font.icon-arzyabi_system_electronici:before {
+    content: "\e915"; }
+  .icon-font.icon-barname_komite:before {
+    content: "\e916"; }
+  .icon-font.icon-bazdidha:before {
+    content: "\e917"; }
+  .icon-font.icon-commite:before {
+    content: "\e918"; }
+  .icon-font.icon-dastoorl_amal:before {
+    content: "\e919"; }
+  .icon-font.icon-date_in_soratjalase:before {
+    content: "\e91a"; }
+  .icon-font.icon-new-service:before {
+    content: "\e91b"; }
+  .icon-font.icon-number:before {
+    content: "\e91c"; }
+  .icon-font.icon-shabih_sazi:before {
+    content: "\e91d"; }
+  .icon-font.icon-shakhes_komitte:before {
+    content: "\e91e"; }
+  .icon-font.icon-shenasname_kommite:before {
+    content: "\e91f"; }
+  .icon-font.icon-subject:before {
+    content: "\e920"; }
+  .icon-font.icon-taghvim_jalasat:before {
+    content: "\e921"; }
+  .icon-font.icon-tamrinhaie_shabihsazi:before {
+    content: "\e922"; }
+  .icon-font.icon-time_soratjalese:before {
+    content: "\e923"; }
+  .icon-font.icon-ajzaye-memari:before {
+    content: "\e900"; }
+  .icon-font.icon-arzyabi-khatar-balaya:before {
+    content: "\e901"; }
+  .icon-font.icon-arzyabi-tasisat:before {
+    content: "\e902"; }
+  .icon-font.icon-control-atash-sozi:before {
+    content: "\e903"; }
+  .icon-font.icon-delet-icon:before {
+    content: "\e904"; }
+  .icon-font.icon-edit-icon:before {
+    content: "\e905"; }
+  .icon-font.icon-gozaresh-havades:before {
+    content: "\e906"; }
+  .icon-font.icon-makan-haye-mohtamel-bar-afzayesh:before {
+    content: "\e907"; }
+  .icon-font.icon-pasokh-be-foriat-ha:before {
+    content: "\e908"; }
+  .icon-font.icon-photocamera-upload:before {
+    content: "\e909"; }
+  .icon-font.icon-samanr-modiriat:before {
+    content: "\e90a"; }
+  .icon-font.icon-system-electronic:before {
+    content: "\e90b"; }
+  .icon-font.icon-system-garmayeshi-sarmayeshi:before {
+    content: "\e90c"; }
+  .icon-font.icon-system-hayati:before {
+    content: "\e90d"; }
+  .icon-font.icon-tajhizat-azmayeshghai:before {
+    content: "\e90e"; }
+  .icon-font.icon-tajhizat-edari:before {
+    content: "\e90f"; }
+  .icon-font.icon-video-upload:before {
+    content: "\e910"; }
+  .icon-font.icon-voice---gozaresh-manovr:before {
+    content: "\e911"; }
+  .icon-font.icon-back:before {
+    content: "\e992"; }
+  .icon-font.icon-elate_hadese:before {
+    content: "\e993"; }
+  .icon-font.icon-khate_mashi:before {
+    content: "\e994"; }
+  .icon-font.icon-mahale_hadese:before {
+    content: "\e995"; }
+  .icon-font.icon-saate_hadese:before {
+    content: "\e996"; }
+  .icon-font.icon-shifte_hadese:before {
+    content: "\e997"; }
+
+.icon-low_priority {
+  background-image: url("../images/low.gif") !important;
+  background-size: 60px !important;
+  background-position: center !important;
+  background-repeat: no-repeat; }
+
+.icon-medium_priority {
+  background-image: url("../images/medium.gif") !important;
+  background-size: 60px !important;
+  background-position: center !important;
+  background-repeat: no-repeat; }
+
+.icon-high_priority {
+  background-image: url("../images/high.gif") !important;
+  background-size: 60px !important;
+  background-position: center !important;
+  background-repeat: no-repeat; }
+
+/*# sourceMappingURL=icons.css.map */
