@@ -378,6 +378,36 @@
         }
       }
     }
+
+
+  }
+
+  .last-news-box {
+    margin: 35px auto;
+    .white-box {
+      width: 280px;
+      margin: auto;
+      display: block;
+      .title-news {
+        width: 255px;
+        display: block;
+        text-align: center;
+        margin: 5px auto;
+        line-height: 2;
+      }
+      .author-text {
+        margin: 10px 15px 5px 0;
+        display: inline-block;
+      }
+      .author-name {
+        margin: 10px 5px 15px 0;
+        display: inline-block;
+      }
+      .photograph-text {
+        margin: auto 68px auto 0;
+      }
+
+    }
   }
   .more-view-btn {
     cursor: pointer;
@@ -407,7 +437,9 @@
     position: relative;
     top: 230px;
   }
+
 }
+
 
 .footer-sec {
   position: relative;
@@ -1018,6 +1050,76 @@
     }
     .desc-box {
       border-color: $gray;
+    }
+  }
+}
+
+/*---------------------------------------------------------------------*/
+
+/*----------            <- Style For News page ->            ----------*/
+
+.top-news-sec {
+  .top-news-content {
+    margin: 20px auto !important;
+    width: 90%;
+    .white-box {
+      background-color: $gray-rgb !important;
+      .top-news-title {
+        text-align: center;
+      }
+    }
+    .more-view-btn {
+      cursor: pointer;
+      border: 1px solid $dark_blue;
+      border-bottom-right-radius: 50px;
+      border-top-right-radius: 50px;
+      border-top-left-radius: 50px;
+      border-bottom-left-radius: 50px;
+      width: 130px;
+      height: 30px;
+      color: $dark_blue;
+      margin: 15px auto;
+      position: relative;
+      z-index: 1;
+    }
+
+    .sileshow-dot {
+      bottom: 20px;
+    }
+
+  }
+}
+
+.search-news-sec {
+  margin: 20px auto;
+  .white-box {
+    width: 50%;
+    margin: auto;
+    border-bottom-right-radius: 50px;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-color: $gray !important;
+    .bg-icon {
+      background-color: $blue_list;
+      display: block;
+      width: 70px;
+      float: left;
+      height: 34px;
+      border-top-left-radius: 50px;
+      border-bottom-left-radius: 50px;
+    }
+    i {
+      font-size: 2em !important;
+      color: white !important;
+      right: 47px !important;
+      top: 2px !important;
+    }
+    input {
+      text-align: center !important;
+      border: none !important;
+      width: 80% !important;
+      margin: auto !important;
     }
   }
 }
