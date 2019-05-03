@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4fe2d19-ac8f-42e7-ab0c-da1139a94444" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Hafez/public_html/contact-us.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Hafez/public_html/news.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hafez/public_html/about-us.html" afterPath="$PROJECT_DIR$/Hafez/public_html/about-us.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hafez/public_html/asset/css/index.css" afterPath="$PROJECT_DIR$/Hafez/public_html/asset/css/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hafez/public_html/asset/css/index.css.map" afterPath="$PROJECT_DIR$/Hafez/public_html/asset/css/index.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hafez/public_html/asset/css/index.scss" afterPath="$PROJECT_DIR$/Hafez/public_html/asset/css/index.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hafez/public_html/documents.html" afterPath="$PROJECT_DIR$/Hafez/public_html/documents.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hafez/public_html/index.html" afterPath="$PROJECT_DIR$/Hafez/public_html/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hafez/public_html/photoGallery.html" afterPath="$PROJECT_DIR$/Hafez/public_html/photoGallery.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hafez/public_html/rules-regulations.html" afterPath="$PROJECT_DIR$/Hafez/public_html/rules-regulations.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,40 +29,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="rules-regulations.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Hafez/public_html/rules-regulations.html">
+      <file leaf-file-name="contact-us.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hafez/public_html/contact-us.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="805">
-              <caret line="129" column="25" lean-forward="false" selection-start-line="129" selection-start-column="25" selection-end-line="129" selection-end-column="25" />
+            <state relative-caret-position="371">
+              <caret line="114" column="88" lean-forward="false" selection-start-line="114" selection-start-column="88" selection-end-line="114" selection-end-column="88" />
               <folding>
-                <element signature="n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#ul#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#li#0;n#ul#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#li#1;n#ul#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#li#2;n#ul#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#li#3;n#ul#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#ul#1;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#ul#2;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#ul#3;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#ul#4;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#ul#5;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#ul#6;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#ul#7;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#ul#8;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#ul#9;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.scss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Hafez/public_html/asset/css/index.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="985" column="40" lean-forward="false" selection-start-line="985" selection-start-column="40" selection-end-line="985" selection-end-column="40" />
+            <state relative-caret-position="530">
+              <caret line="1019" column="25" lean-forward="false" selection-start-line="1019" selection-start-column="25" selection-end-line="1019" selection-end-column="25" />
               <folding>
                 <element signature="e#18278#18348#0" expanded="false" />
+                <element signature="e#20083#20312#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -61,8 +57,8 @@
       <file leaf-file-name="template.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Hafez/public_html/asset/css/template.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="4483" column="1" lean-forward="true" selection-start-line="4483" selection-start-column="1" selection-end-line="4483" selection-end-column="1" />
+            <state relative-caret-position="12256">
+              <caret line="5306" column="5" lean-forward="false" selection-start-line="5306" selection-start-column="1" selection-end-line="5306" selection-end-column="5" />
               <folding>
                 <element signature="e#261#493#0" expanded="false" />
                 <element signature="e#505#756#0" expanded="false" />
@@ -213,6 +209,7 @@
                 <element signature="e#86172#87898#0" expanded="false" />
                 <element signature="e#87914#90173#0" expanded="false" />
                 <element signature="e#90189#92554#0" expanded="false" />
+                <element signature="e#92576#92731#0" expanded="false" />
                 <element signature="e#92744#92788#0" expanded="false" />
                 <element signature="e#92801#94985#0" expanded="false" />
                 <element signature="e#94999#99328#0" expanded="false" />
@@ -311,8 +308,8 @@
       <file leaf-file-name="config.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Hafez/public_html/asset/css/config.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="111" column="37" lean-forward="true" selection-start-line="111" selection-start-column="37" selection-end-line="111" selection-end-column="37" />
+            <state relative-caret-position="314">
+              <caret line="149" column="0" lean-forward="false" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -333,6 +330,7 @@
       <find>table-custom</find>
       <find>btn</find>
       <find>teble-even-row-blue</find>
+      <find>form</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -348,13 +346,17 @@
       <list>
         <option value="$PROJECT_DIR$/Hafez/public_html/asset/css/Rules-regulations.html" />
         <option value="$PROJECT_DIR$/Hafez/public_html/asset/css/template.scss" />
+        <option value="$PROJECT_DIR$/Hafez/public_html/asset/css/config.scss" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Hafez/public_html/Contact-us.html" />
+        <option value="$PROJECT_DIR$/Hafez/public_html/news.html" />
+        <option value="$PROJECT_DIR$/Hafez/public_html/rules-regulations.html" />
         <option value="$PROJECT_DIR$/Hafez/public_html/photoGallery.html" />
         <option value="$PROJECT_DIR$/Hafez/public_html/index.html" />
         <option value="$PROJECT_DIR$/Hafez/public_html/documents.html" />
         <option value="$PROJECT_DIR$/Hafez/public_html/about-us.html" />
-        <option value="$PROJECT_DIR$/Hafez/public_html/asset/css/config.scss" />
+        <option value="$PROJECT_DIR$/Hafez/public_html/contact-us.html" />
         <option value="$PROJECT_DIR$/Hafez/public_html/asset/css/index.scss" />
-        <option value="$PROJECT_DIR$/Hafez/public_html/rules-regulations.html" />
       </list>
     </option>
   </component>
@@ -407,21 +409,6 @@
               <item name="Hafez" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="public_html" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="Hafez" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hafez" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Hafez" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="public_html" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="asset" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="Hafez" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hafez" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Hafez" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="public_html" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="asset" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -461,7 +448,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556793587046</updated>
-      <workItem from="1556793589686" duration="9773000" />
+      <workItem from="1556793589686" duration="14814000" />
     </task>
     <task id="LOCAL-00001" summary="update index page at 15:10">
       <created>1556793654841</created>
@@ -505,17 +492,25 @@
       <option name="project" value="LOCAL" />
       <updated>1556806876329</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update html pages at 19:10">
+      <created>1556807931228</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1556807931228</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9773000" />
+    <option name="totallyTimeSpent" value="14814000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -547,49 +542,95 @@
     <MESSAGE value="update rules-regulations.html" />
     <MESSAGE value="update rules-regulations.html and other page at 17:33" />
     <MESSAGE value="update rules-regulations.html and added color for config.scss at 18:50" />
-    <option name="LAST_COMMIT_MESSAGE" value="update rules-regulations.html and added color for config.scss at 18:50" />
+    <MESSAGE value="update html pages at 19:10" />
+    <option name="LAST_COMMIT_MESSAGE" value="update html pages at 19:10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Hafez/public_html/documents.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
-          <caret line="37" column="92" lean-forward="false" selection-start-line="37" selection-start-column="92" selection-end-line="37" selection-end-column="92" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Hafez/public_html/about-us.html">
+    <entry file="file://$PROJECT_DIR$/Hafez/public_html/rules-regulations.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="38" column="92" lean-forward="false" selection-start-line="38" selection-start-column="92" selection-end-line="38" selection-end-column="92" />
-          <folding />
+        <state relative-caret-position="306">
+          <caret line="40" column="79" lean-forward="false" selection-start-line="40" selection-start-column="79" selection-end-line="40" selection-end-column="79" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#0;n#ul#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#1;n#ul#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#2;n#ul#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#3;n#ul#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#1;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#2;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#3;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#4;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#5;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#6;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#7;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#8;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#9;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Hafez/public_html/photoGallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="571">
-          <caret line="36" column="88" lean-forward="false" selection-start-line="36" selection-start-column="88" selection-end-line="36" selection-end-column="88" />
+        <state relative-caret-position="144">
+          <caret line="37" column="81" lean-forward="false" selection-start-line="37" selection-start-column="81" selection-end-line="37" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hafez/public_html/news.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Hafez/public_html/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="60" column="81" lean-forward="false" selection-start-line="60" selection-start-column="81" selection-end-line="60" selection-end-column="81" />
+        <state relative-caret-position="458">
+          <caret line="62" column="68" lean-forward="false" selection-start-line="62" selection-start-column="68" selection-end-line="62" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hafez/public_html/about-us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="42" column="26" lean-forward="true" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hafez/public_html/documents.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="44" column="16" lean-forward="false" selection-start-line="44" selection-start-column="16" selection-end-line="47" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Hafez/public_html/asset/css/template.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="4483" column="1" lean-forward="true" selection-start-line="4483" selection-start-column="1" selection-end-line="4483" selection-end-column="1" />
+        <state relative-caret-position="12256">
+          <caret line="5306" column="5" lean-forward="false" selection-start-line="5306" selection-start-column="1" selection-end-line="5306" selection-end-column="5" />
           <folding>
             <element signature="e#261#493#0" expanded="false" />
             <element signature="e#505#756#0" expanded="false" />
@@ -740,6 +781,7 @@
             <element signature="e#86172#87898#0" expanded="false" />
             <element signature="e#87914#90173#0" expanded="false" />
             <element signature="e#90189#92554#0" expanded="false" />
+            <element signature="e#92576#92731#0" expanded="false" />
             <element signature="e#92744#92788#0" expanded="false" />
             <element signature="e#92801#94985#0" expanded="false" />
             <element signature="e#94999#99328#0" expanded="false" />
@@ -834,45 +876,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Hafez/public_html/asset/css/index.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="985" column="40" lean-forward="false" selection-start-line="985" selection-start-column="40" selection-end-line="985" selection-end-column="40" />
-          <folding>
-            <element signature="e#18278#18348#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Hafez/public_html/asset/css/config.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="111" column="37" lean-forward="true" selection-start-line="111" selection-start-column="37" selection-end-line="111" selection-end-column="37" />
+        <state relative-caret-position="314">
+          <caret line="149" column="0" lean-forward="false" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Hafez/public_html/rules-regulations.html">
+    <entry file="file://$PROJECT_DIR$/Hafez/public_html/contact-us.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="805">
-          <caret line="129" column="25" lean-forward="false" selection-start-line="129" selection-start-column="25" selection-end-line="129" selection-end-column="25" />
+        <state relative-caret-position="371">
+          <caret line="114" column="88" lean-forward="false" selection-start-line="114" selection-start-column="88" selection-end-line="114" selection-end-column="88" />
           <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#0;n#ul#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#1;n#ul#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#2;n#ul#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#3;n#ul#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#1;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#2;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#3;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#4;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#5;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#6;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#7;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#8;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#9;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hafez/public_html/asset/css/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="1019" column="25" lean-forward="false" selection-start-line="1019" selection-start-column="25" selection-end-line="1019" selection-end-column="25" />
+          <folding>
+            <element signature="e#18278#18348#0" expanded="false" />
+            <element signature="e#20083#20312#0" expanded="false" />
           </folding>
         </state>
       </provider>

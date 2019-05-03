@@ -990,5 +990,38 @@
   }
 }
 
+/*---------------------------------------------------------------------------*/
+
+/*----------            <- Style For Contact Us page ->            ----------*/
+
+.contact-us-sec {
+  position: relative;
+  top: 90px;
+  .contact-us-content {
+    width: 70%;
+    margin: auto;
+    span {
+      text-align: center;
+    }
+    .sent-form {
+      border-color: $gray !important;
+      width: 70%;
+      margin: 20px auto;
+      i {
+        float: right !important;
+        font-size: 2em;
+      }
+      input {
+        border: none;
+        width: 240px;
+      }
+    }
+    .desc-box {
+      border-color: $gray;
+    }
+  }
+}
+
+
 
 
