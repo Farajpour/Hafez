@@ -409,6 +409,7 @@
 
     }
   }
+
   .more-view-btn {
     cursor: pointer;
     border: 1px solid $dark_blue;
@@ -420,6 +421,94 @@
     height: 50px;
     color: $dark_blue;
     margin: 15px auto;
+  }
+
+  .page-butt {
+    width: 400px;
+    margin: auto;
+    ul {
+      position: relative;
+      .prev-shape {
+        a {
+          width: 70px;
+          height: 36px;
+          background-color: $gray2;
+          display: block;
+          position: absolute;
+          top: 25px;
+          right: 72px;
+          text-align: center;
+          line-height: 36px;
+          color: $gray;
+          &:after {
+            content: "";
+            position: absolute;
+            right: -18px;
+            bottom: 0;
+            width: 0;
+            height: 0;
+            border-left: 18px solid $gray2;
+            border-top: 18px solid transparent;
+            border-bottom: 18px solid transparent;
+          }
+        }
+      }
+
+      .next-shape {
+        a {
+          width: 70px;
+          height: 36px;
+          background-color: $blue;
+          display: block;
+          position: absolute;
+          top: 25px;
+          right: 300px;
+          text-align: center;
+          line-height: 36px;
+          color: $white;
+          &:after {
+            content: "";
+            position: absolute;
+            right: 70px;
+            bottom: 0;
+            width: 0;
+            height: 0;
+            border-right: 18px solid $blue;
+            border-top: 18px solid transparent;
+            border-bottom: 18px solid transparent;
+          }
+        }
+      }
+
+      li:nth-child(2) {
+        a {
+          width: 50px;
+          height: 36px;
+          background-color: $blue;
+          display: inline-block;
+          text-align: center;
+          line-height: 36px;
+          color: $white;
+          position: absolute;
+          right: 165px;
+          top: 25px;
+        }
+      }
+      li:nth-child(3) {
+        a {
+          width: 50px;
+          height: 36px;
+          background-color: $gray2;
+          display: inline-block;
+          text-align: center;
+          line-height: 36px;
+          color: $gray;
+          position: absolute;
+          right: 230px;
+          top: 25px;
+        }
+      }
+    }
   }
 
   hr {
@@ -1062,25 +1151,34 @@
   .top-news-content {
     margin: 20px auto !important;
     width: 90%;
+    z-index: 0 !important;
     .white-box {
       background-color: $gray-rgb !important;
       .top-news-title {
         text-align: center;
       }
+      p {
+        line-height: 2;
+        margin: 20px auto;
+      }
     }
     .more-view-btn {
       cursor: pointer;
-      border: 1px solid $dark_blue;
+      border: 1px solid $blue_navy;
       border-bottom-right-radius: 50px;
       border-top-right-radius: 50px;
       border-top-left-radius: 50px;
       border-bottom-left-radius: 50px;
       width: 130px;
-      height: 30px;
-      color: $dark_blue;
-      margin: 15px auto;
+      height: 35px;
+      line-height: 20px;
+      color: $real_black;
+      //margin: 15px auto;
       position: relative;
+      top: -5px;
+      right: 250px;
       z-index: 1;
+      background-color: $blue_navy;
     }
 
     .sileshow-dot {
