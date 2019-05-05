@@ -63,6 +63,22 @@
   @media (min-width:320px) and (max-width: 1240px) {
     margin-bottom: auto;
   }
+  &.top-news-content {
+    @media (min-width: 360px) and (max-width: 480px) {
+      img {
+        width: 300px;
+        height: 180px;
+        margin: auto;
+        display: block;
+      }
+      .sileshow-dot {
+        display: none;
+      }
+      .more-view-btn {
+        right: 0 !important;
+      }
+    }
+  }
 }
 
 .hidde-mobile-nav {
@@ -88,6 +104,9 @@
 @media screen and (max-width: 980px) {
   .main-menu {
     width: auto !important;
+    a.active {
+      border-bottom: 1px solid $white !important;
+    }
   }
   .header-toggle {
     display: none;
@@ -109,13 +128,22 @@
 
       }
     }
+    &.other-page {
+      ul {
+        li {
+          a {
+            color: $white !important;
+          }
+        }
+      }
+    }
   }
 
 }
 
-/*-------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------*/
 
-/*----------            <- Style For index page ->            ----------*/
+/*----------   <- Style For index page and Responsive page ->   ----------*/
 
 .bg-sec {
   width: 900px;
@@ -257,6 +285,11 @@
   width: 80%;
   position: relative;
   bottom: -150px;
+  &.resp-sec {
+    @media screen and (max-width: 980px) {
+      bottom: -120px;
+    }
+  }
   @media screen and (max-width: 980px) {
     bottom: 100px;
   }
@@ -386,7 +419,7 @@
     margin: 35px auto;
     .white-box {
       width: 280px;
-      margin: auto;
+      margin: 20px auto;
       display: block;
       .title-news {
         width: 255px;
@@ -424,7 +457,7 @@
   }
 
   .page-butt {
-    width: 400px;
+    width: 435px;
     margin: auto;
     ul {
       position: relative;
@@ -528,7 +561,6 @@
   }
 
 }
-
 
 .footer-sec {
   position: relative;
@@ -790,9 +822,9 @@
 
 }
 
-/*-------------------------------------------------------------------------*/
+/*---------------------------------------------------------------------------*/
 
-/*----------            <- Style For about-us page ->            ----------*/
+/*----------   <- Style For about-us page and Responsive page ->   ----------*/
 
 .main-menu_sec {
   .main-menu_nav {
@@ -877,6 +909,28 @@
     top: 170px;
     height: 300px;
   }
+
+  @media (min-width: 480px) and (max-width:959px) {
+    .circle-shape {
+      width: 90px;
+      height: 90px;
+      position: absolute;
+      right: -45px;
+    }
+    .about-us-boxing {
+      width: auto;
+      height: auto;
+      margin: auto;
+      display: table;
+      top: 160px;
+      img {
+        display: none;
+      }
+    }
+    .left-bg {
+      display: none;
+    }
+  }
 }
 
 .key-members_sec {
@@ -907,6 +961,15 @@
           margin: auto;
           display: block;
           width: 715px;
+          @media (min-width: 480px) and (max-width: 1024px) {
+            width: auto;
+          }
+          @media (min-width: 1281px) and (max-width: 1366px) {
+            width: 755px;
+          }
+          @media (min-width: 1367px) and (max-width: 1920px) {
+            width: 990px;
+          }
         }
         span.text-size2 {
           border-bottom: 2px solid $dark_blue;
@@ -924,9 +987,9 @@
   }
 }
 
-/*--------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------*/
 
-/*----------            <- Style For documents page ->            ----------*/
+/*----------   <- Style For documents page and Responsive page ->   ----------*/
 
 
 .title-documents-sec {
@@ -950,11 +1013,15 @@
   }
 }
 
-/*-----------------------------------------------------------------------------*/
+/*-------------------------------------------------------------------------------*/
 
-/*----------            <- Style For photoGallery page ->            ----------*/
+/*----------   <- Style For photoGallery page and Responsive page ->   ----------*/
 
 .categorise-sec {
+  @media screen and (max-width: 960px) {
+    position: relative;
+    top: 60px;
+  }
   .categorise-content {
     width: 90%;
     margin: auto;
@@ -993,7 +1060,6 @@
       }
     }
   }
-
 }
 
 .indicator-videos-sec {
@@ -1022,11 +1088,15 @@
   }
 }
 
-/*--------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------*/
 
-/*----------            <- Style For Rules and regulations page ->            ----------*/
+/*----------   <- Style For rules-regulations page and Responsive page ->   ----------*/
 
 .rules-regulations-sec {
+  @media screen and (max-width:960px) {
+    position: relative;
+    top: 60px;
+  }
   .rul-reg-content {
     width: 90%;
     margin: auto;
@@ -1111,9 +1181,9 @@
   }
 }
 
-/*---------------------------------------------------------------------------*/
+/*-----------------------------------------------------------------------------*/
 
-/*----------            <- Style For Contact Us page ->            ----------*/
+/*----------   <- Style For Contact-Us page and Responsive page ->   ----------*/
 
 .contact-us-sec {
   position: relative;
@@ -1126,15 +1196,15 @@
     }
     .sent-form {
       border-color: $gray !important;
-      width: 70%;
-      margin: 20px auto;
+      height: 50px;
+      margin: 20px 10px;
       i {
         float: right !important;
         font-size: 2em;
       }
       input {
         border: none;
-        width: 240px;
+        float: right;
       }
     }
     .desc-box {
@@ -1143,9 +1213,9 @@
   }
 }
 
-/*---------------------------------------------------------------------*/
+/*-----------------------------------------------------------------------*/
 
-/*----------            <- Style For News page ->            ----------*/
+/*----------   <- Style For News page and Responsive page ->   ----------*/
 
 .top-news-sec {
   .top-news-content {
@@ -1186,6 +1256,11 @@
     }
 
   }
+
+  @media screen and (max-width:960px) {
+    position: relative;
+    top: 60px;
+  }
 }
 
 .search-news-sec {
@@ -1218,6 +1293,16 @@
       border: none !important;
       width: 80% !important;
       margin: auto !important;
+    }
+  }
+  @media (min-width: 360px) and (max-width: 480px) {
+    position: relative;
+    top: 55px;
+    .white-box {
+      width: 80%;
+      input {
+        width: auto !important;
+      }
     }
   }
 }
