@@ -2,22 +2,27 @@
 
 .slideShow-container {
   width: 100%;
-  position: relative;
   margin: auto;
-  margin-bottom: -660px;
-  z-index: -1;  
+  z-index: -1;
+  position: relative;
+  top: -69px; 
+  @media (min-width: 360px) and (max-width: 960px) {
+    position: relative;
+    top: 0;
+  }
   .mySlides {
     display: none;
     .opacity {
       position: absolute;
-      bottom: 24px;
+      bottom: 0;
+      top: -22px;
       background: rgb(0, 0, 0);
       background: rgba(0, 0, 0, 0.6);
       color: #f1f1f1;
       width: 100%;
       height: 100%;
       @media (min-width:320px) and (max-width: 980px) {
-        bottom: 0;
+        top: 0;
       }
     }
   }
@@ -36,9 +41,9 @@
     }  
   }
   .sileshow-dot {
-    text-align:center;
+    text-align: center;
     position: relative;
-    bottom: 240px;
+    bottom: 100px;
     .dot {
       height: 15px;
       width: 15px;
@@ -60,8 +65,24 @@
       top: -135px;
     }
   }
-  @media (min-width:320px) and (max-width: 1240px) {
-    margin-bottom: auto;
+  // @media (min-width:320px) and (max-width: 1240px) {
+  //   margin-bottom: auto;
+  // }
+  &.top-news-content {
+    @media (min-width: 360px) and (max-width: 480px) {
+      img {
+        width: 300px;
+        height: 180px;
+        margin: auto;
+        display: block;
+      }
+      .sileshow-dot {
+        display: none;
+      }
+      .more-view-btn {
+        right: 0 !important;
+      }
+    }
   }
 }
 
@@ -82,12 +103,16 @@
   color: $white !important;
   @media screen and (max-width: 980px) {
     display: block !important;
+    z-index: 3;
   }
 }
 
 @media screen and (max-width: 980px) {
   .main-menu {
     width: auto !important;
+    a.active {
+      border-bottom: 1px solid $white !important;
+    }
   }
   .header-toggle {
     display: none;
@@ -109,164 +134,206 @@
 
       }
     }
+    &.other-page {
+      ul {
+        li {
+          a {
+            color: $white !important;
+          }
+        }
+      }
+    }
   }
 
 }
 
-/*-------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------*/
 
-/*----------            <- Style For index page ->            ----------*/
+/*----------   <- Style For index page and Responsive page ->   ----------*/
 
-.bg-sec {
-  width: 900px;
-  margin-right: 50px;
-  margin-top: 15px;
-  @media (min-width:980px) and (max-width:1240px) {
+// .bg-sec {
+//   // width: 900px;
+//   margin-right: 50px;
+//   margin-top: 15px;
+//   @media (min-width:980px) and (max-width:1240px) {
+//     position: relative;
+//     top: -530px;
+//   }
+//   @media (min-width: 1367px) and (max-width: 1920px) {
+//     position: relative;
+//     top: -275px;
+//   }
+
+//   .main-menu {
+//     display: block;
+//     // width: 900px;
+//     margin: auto;
+//     a {
+//       color: $white;
+//       font-size: .8em;
+      
+//     }
+//     a.active {
+//       border-bottom: 5px solid $white;
+//       padding: 5px;
+      
+//     }
+//     @media screen and (max-width: 980px) {
+//       width: auto !important;
+//     }
+    
+//   }
+// }
+
+// .nav-hr {
+//   background-color: $white;
+//   margin-left: -15px;
+//   margin-right: -15px;
+//   @media (max-width: 980px) and (min-width: 320px) {
+//     display: none;
+//   }
+//   @media (max-width: 1025px) and (min-width: 981px) {
+//     position: relative;
+//     top: -540px;
+//     margin-left: -15px;
+//     margin-right: -15px;
+//   }
+//   @media (min-width: 1367px) and (max-width: 1920px) {
+//     position: relative;
+//     top: -275px;
+//   }
+
+// }
+
+.main-bg-sec {
+  height: 850px;
+  .logo-title {
     position: relative;
-    top: -530px;
+    bottom: 490px;
+    img {
+      display: block;
+      margin: auto;
+      // position: relative;
+      // top: 60px;
+    }
+    .text-title, .name-company {
+      margin: 13px auto;
+      display: table;
+      position: relative;
+      top: 50px;
+    }
+    @media (min-width:320px) and (max-width: 480px) {
+      position: relative;
+      bottom: 145px;
+      img {
+        width: 50px;
+        height: 40px;
+        // top: -160px;
+      }
+      .text-title, .name-company {
+        margin: auto;
+        // top: -130px;
+        font-size: .8em;
+        position: relative;
+        top: 20px;
+      }
+    }
+    @media (min-width:481px) and (max-width: 960px) {
+      img {
+        top: 100px;
+        position: relative;
+      }
+      .text-title, .name-company {
+        margin: auto;
+        top: 140px;
+        // font-size: 1em;
+      }
+    }
+    @media (min-width: 961px) and (max-width: 1024px) {
+      position: relative;
+      top: -515px;
+    }
+    @media (min-width: 1366px) and (max-width: 1920px) {
+      position: relative;
+      bottom: 640px;
+      img {
+        width: 200px;
+        height: 200px;
+      }
+    }
   }
-  @media (min-width: 1367px) and (max-width: 1920px) {
-    position: relative;
-    top: -275px;
-  }
-
-  .main-menu {
-    display: block;
-    width: 900px;
+  
+  .about-box {
+    width: 90%;
     margin: auto;
+    position: relative;
+    top: -400px;
+    .about-box-title {
+      margin: auto;
+      display: block
+    }
+    .about-box-desc {
+      width: 94%;
+      padding: 10px;
+      font-size: .9em;
+      line-height: 1.8;
+    }
     a {
-      color: $white;
-      font-size: .8em;
-      
+      position: relative;
+      bottom: 30px;
+      left: 40px;
+      float: left;
     }
-    a.active {
-      border-bottom: 5px solid $white;
-      padding: 5px;
-      
+    @media (min-width:320px) and (max-width: 480px) {
+      top: -110px;
     }
-    @media screen and (max-width: 980px) {
-      width: auto !important;
+    @media (min-width:481px) and (max-width: 960px) {
+      top: -340px;
+    }
+    @media (min-width: 961px) and (max-width: 1024px) {
+      position: relative;
+      top: -430px;
+    }
+    @media (min-width: 1025px) and (max-width: 1280px) {
+      position: relative;
+      top: -400px;
+    }
+    @media (min-width: 1281px) and (max-width: 1920px) {
+      position: relative;
+      top: -500px;
     }
     
   }
 }
 
-.nav-hr {
-  background-color: $white;
-  margin-left: -15px;
-  margin-right: -15px;
-  @media (max-width: 980px) and (min-width: 320px) {
-    display: none;
-  }
-  @media (max-width: 1025px) and (min-width: 981px) {
-    position: relative;
-    top: -540px;
-    margin-left: -15px;
-    margin-right: -15px;
-  }
-  @media (min-width: 1367px) and (max-width: 1920px) {
-    position: relative;
-    top: -275px;
-  }
-
-}
-
-.logo-title {
-  img {
-    display: block;
-    margin: auto;
-    position: relative;
-    top: 60px;
-  }
-  .text-title, .name-company {
-    margin: 13px auto;
-    display: table;
-    position: relative;
-    top: 50px;
-  }
-  @media (min-width:320px) and (max-width: 500px) {
-    img {
-      width: 50px;
-      height: 40px;
-      top: -160px;
-    }
-    .text-title, .name-company {
-      margin: auto;
-      top: -130px;
-      font-size: .8em;
-    }
-  }
-  @media (min-width:501px) and (max-width: 980px) {
-    img {
-      top: -270px;
-    }
-    .text-title, .name-company {
-      margin: auto;
-      top: -265px;
-      font-size: 1em;
-    }
-  }
-  @media (min-width: 961px) and (max-width: 1024px) {
-    position: relative;
-    top: -560px;
-  }
-}
-
-.about-box {
-  width: 90%;
-  margin: auto;
-  position: relative;
-  top: 132px;
-  .about-box-title {
-    margin: auto;
-    display: block
-  }
-  .about-box-desc {
-    width: 94%;
-    padding: 10px;
-    font-size: .9em;
-    line-height: 1.8;
-  }
-  a {
-    position: relative;
-    bottom: 30px;
-    left: 40px;
-    float: left;
-  }
-  @media (min-width:320px) and (max-width: 500px) {
-    top: -120px;
-  }
-  @media (min-width:501px) and (max-width: 980px) {
-    top: -240px;
-  }
-  @media (min-width: 961px) and (max-width: 1024px) {
-    position: relative;
-    top: -450px;
-  }
-  @media (min-width: 1025px) and (max-width: 1366px) {
-    position: relative;
-    top: 190px;
-  }
-  @media (min-width: 1367px) and (max-width: 1920px) {
-    position: relative;
-    top: 200px;
-  }
-}
 
 .documents-sec {
   width: 80%;
   position: relative;
-  bottom: -150px;
-  @media screen and (max-width: 980px) {
-    bottom: 100px;
-  }
-  @media (min-width: 1025px) and (max-width: 1366px) {
+  top: -320px;
+  &.resp-sec {
     position: relative;
-    top: 200px;
+    top: 134px;
+    @media screen and (max-width: 980px) {
+      bottom: -120px;
+    }
+
+  }
+  @media screen and (max-width: 980px) {
+    top: -288px;
+  
+  }
+  @media (min-width: 1025px) and (max-width: 1280px) {
+    position: relative;
+    top: -315px;
+  }
+  @media (min-width: 1281px) and (max-width: 1366px) {
+    position: relative;
+    top: 0;
   }
   @media (min-width: 1367px) and (max-width: 1920px) {
     position: relative;
-    top: 225px;
+    top: 215px;
   }
 
   .doc-pic {
@@ -316,7 +383,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    top: 200px;
+    // top: -300px;
     position: relative;
     .opacity {
       background: rgb(0, 0, 0);
@@ -343,6 +410,18 @@
         }
       }
     }
+    @media (min-width: 360px) and (max-width: 1024px) {
+      position: relative;
+      top: -235px;
+    }
+    @media (min-width: 1025px) and (max-width: 1280px) {
+      position: relative;
+      top: -240px;
+    }
+    @media (min-width: 1281px) and (max-width: 1366px) {
+      position: relative;
+      top: 40px;
+    }
     @media (min-width: 1367px) and (max-width: 1920px) {
       position: relative;
       top: 230px;
@@ -352,7 +431,7 @@
 
 .news-sec {
   position: relative;
-  top: 200px;
+  top: -110px;
   .sec-title {
     padding: 15px 50px;
   }
@@ -378,15 +457,13 @@
         }
       }
     }
-
-
   }
 
   .last-news-box {
     margin: 35px auto;
     .white-box {
       width: 280px;
-      margin: auto;
+      margin: 20px auto;
       display: block;
       .title-news {
         width: 255px;
@@ -424,7 +501,7 @@
   }
 
   .page-butt {
-    width: 400px;
+    width: 435px;
     margin: auto;
     ul {
       position: relative;
@@ -522,17 +599,32 @@
       top: 0;
     }
   }
+  
+  @media (min-width: 1281px) and (max-width: 1366px) {
+    position: relative;
+    top: 50px;
+  }
   @media (min-width: 1367px) and (max-width: 1920px) {
     position: relative;
-    top: 230px;
+    top: 240px;
   }
-
 }
-
 
 .footer-sec {
   position: relative;
-  top: 200px;
+  top: 100px;
+  &.fir-page {
+    position: relative;
+    top: -185px;
+    @media (min-width: 1281px) and (max-width: 1366px) {
+      position: relative;
+      top: 0; 
+    }
+    @media (min-width: 1367px) and (max-width: 1920px) {
+      position: relative;
+      top: 200px;
+    }
+  }
   .row {
     height: 300px;
   }
@@ -543,6 +635,12 @@
     position: relative;
     top: 50px;
     z-index: 0;
+
+    .footer-bg {
+      position: absolute;
+      height: 400px;
+      top: 220px;
+    }
     .partition-foo {
       //width: 1260px;
       position: relative;
@@ -711,6 +809,9 @@
         }
         }
 
+      @media (min-width: 1281px) and (max-width: 1920px) {
+          font-size: 1.5em;
+      }
     }
 
     .location-div {
@@ -730,6 +831,9 @@
         padding: 10px;
 
       }
+      @media (min-width: 1281px) and (max-width: 1920px) {
+        font-size: 1.5em;
+      }
     }
 
     .design-by {
@@ -740,7 +844,7 @@
       height: 70px;
       background-color: $dark_blue;
       span.text-white {
-        font-size: .7em;
+        // font-size: .7em;
         position: relative;
         top: 25px;
       }
@@ -770,65 +874,78 @@
           font-size: .6em;
         }
       }
-    }
-  }
-  .footer-bg {
-    background-image: url(../images/law.png);
-    width: 500px;
-    height: 400px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-    bottom: 420px;
-    z-index: -1;
-    @media (min-width: 320px) and (max-width: 480px) {
-      width: auto;
-    }
-
-  }
-
-}
-
-/*-------------------------------------------------------------------------*/
-
-/*----------            <- Style For about-us page ->            ----------*/
-
-.main-menu_sec {
-  .main-menu_nav {
-    .main-menu {
-      padding: 18px 15px;
-      width: 75%;
-      a.active {
-        border-bottom: 5px solid $light-gray;
-        padding: 5px;
-
+      @media (min-width: 1281px) and (max-width: 1920px) {
+        span.text-white {
+          font-size: 1.5em;
+        }
       }
     }
-    .underline-main-menu {
-      width: 100%;
-      margin: auto;
-      //height: 1px;
-      background-color: $gray-rgb;
-      @include box-shadow(0px 3px 5px 0px $gray-rgb);
+  }
+  // .footer-bg {
+  //   background-image: url(../images/law.png);
+  //   width: 500px;
+  //   height: 400px;
+  //   background-position: center;
+  //   background-repeat: no-repeat;
+  //   background-size: cover;
+  //   position: relative;
+  //   bottom: 420px;
+  //   z-index: -1;
+  //   @media (min-width: 320px) and (max-width: 480px) {
+  //     width: auto;
+  //   }
+
+  // }
+
+}
+
+/*---------------------------------------------------------------------------*/
+
+/*----------   <- Style For about-us page and Responsive page ->   ----------*/
+
+.main-menu_nav {
+  .main-menu {
+    padding: 18px 15px;
+    width: 75%;
+    a.active {
+      border-bottom: 5px solid $light-gray;
+      padding: 5px;
+
     }
   }
-  .main-menu-bg {
+  .underline-main-menu {
+    width: 100%;
+    margin: auto;
+    //height: 1px;
+    background-color: $gray-rgb;
+    @include box-shadow(0px 3px 5px 0px $gray-rgb);
+  }
+  &.first-page {
     position: relative;
-    top: 60px;
-    img {
-      width: 80%;
-      height: auto;
-      display: block;
-      margin: auto;
-    }
-    span {
-      position: absolute;
-      bottom: 10px;
-      left: 140px;
+    z-index: 2;
+    a {
+      color: $white !important;
     }
   }
 }
+.main-menu-bg {
+  position: relative;
+  top: 60px;
+  img {
+    width: 80%;
+    height: auto;
+    display: block;
+    margin: auto;
+  }
+  span {
+    position: absolute;
+    bottom: 10px;
+    left: 140px;
+  }
+}
+// .main-menu_sec {
+
+// }
 
 .main-aboutUs_sec {
   position: relative;
@@ -877,6 +994,28 @@
     top: 170px;
     height: 300px;
   }
+
+  @media (min-width: 480px) and (max-width:959px) {
+    .circle-shape {
+      width: 90px;
+      height: 90px;
+      position: absolute;
+      right: -45px;
+    }
+    .about-us-boxing {
+      width: auto;
+      height: auto;
+      margin: auto;
+      display: table;
+      top: 160px;
+      img {
+        display: none;
+      }
+    }
+    .left-bg {
+      display: none;
+    }
+  }
 }
 
 .key-members_sec {
@@ -907,6 +1046,15 @@
           margin: auto;
           display: block;
           width: 715px;
+          @media (min-width: 480px) and (max-width: 1024px) {
+            width: auto;
+          }
+          @media (min-width: 1281px) and (max-width: 1366px) {
+            width: 755px;
+          }
+          @media (min-width: 1367px) and (max-width: 1920px) {
+            width: 990px;
+          }
         }
         span.text-size2 {
           border-bottom: 2px solid $dark_blue;
@@ -924,9 +1072,9 @@
   }
 }
 
-/*--------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------*/
 
-/*----------            <- Style For documents page ->            ----------*/
+/*----------   <- Style For documents page and Responsive page ->   ----------*/
 
 
 .title-documents-sec {
@@ -950,11 +1098,15 @@
   }
 }
 
-/*-----------------------------------------------------------------------------*/
+/*-------------------------------------------------------------------------------*/
 
-/*----------            <- Style For photoGallery page ->            ----------*/
+/*----------   <- Style For photoGallery page and Responsive page ->   ----------*/
 
 .categorise-sec {
+  @media screen and (max-width: 960px) {
+    position: relative;
+    top: 60px;
+  }
   .categorise-content {
     width: 90%;
     margin: auto;
@@ -993,7 +1145,6 @@
       }
     }
   }
-
 }
 
 .indicator-videos-sec {
@@ -1022,11 +1173,15 @@
   }
 }
 
-/*--------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------*/
 
-/*----------            <- Style For Rules and regulations page ->            ----------*/
+/*----------   <- Style For rules-regulations page and Responsive page ->   ----------*/
 
 .rules-regulations-sec {
+  @media screen and (max-width:960px) {
+    position: relative;
+    top: 60px;
+  }
   .rul-reg-content {
     width: 90%;
     margin: auto;
@@ -1111,9 +1266,9 @@
   }
 }
 
-/*---------------------------------------------------------------------------*/
+/*-----------------------------------------------------------------------------*/
 
-/*----------            <- Style For Contact Us page ->            ----------*/
+/*----------   <- Style For Contact-Us page and Responsive page ->   ----------*/
 
 .contact-us-sec {
   position: relative;
@@ -1126,15 +1281,15 @@
     }
     .sent-form {
       border-color: $gray !important;
-      width: 70%;
-      margin: 20px auto;
+      height: 50px;
+      margin: 20px 10px;
       i {
         float: right !important;
         font-size: 2em;
       }
       input {
         border: none;
-        width: 240px;
+        float: right;
       }
     }
     .desc-box {
@@ -1143,15 +1298,16 @@
   }
 }
 
-/*---------------------------------------------------------------------*/
+/*-----------------------------------------------------------------------*/
 
-/*----------            <- Style For News page ->            ----------*/
+/*----------   <- Style For News page and Responsive page ->   ----------*/
 
 .top-news-sec {
   .top-news-content {
     margin: 20px auto !important;
     width: 90%;
     z-index: 0 !important;
+    top: 0;
     .white-box {
       background-color: $gray-rgb !important;
       .top-news-title {
@@ -1186,6 +1342,11 @@
     }
 
   }
+
+  @media screen and (max-width:960px) {
+    position: relative;
+    top: 60px;
+  }
 }
 
 .search-news-sec {
@@ -1218,6 +1379,16 @@
       border: none !important;
       width: 80% !important;
       margin: auto !important;
+    }
+  }
+  @media (min-width: 360px) and (max-width: 480px) {
+    position: relative;
+    top: 55px;
+    .white-box {
+      width: 80%;
+      input {
+        width: auto !important;
+      }
     }
   }
 }
